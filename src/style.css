@@ -1,0 +1,89 @@
+body {
+    background-color: #8198af;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #893361;
+}
+
+.container {
+    margin: 100px auto;
+    max-width: 500px;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.5;
+    color: #272044;
+}
+
+form {
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.instructions {
+    padding: 14px;
+    border: 3px solid rgba(12, 12, 12, 0.5);
+    width: 50%;
+    margin-left:10px;
+    font-size: 16px;
+    border-radius: 10px;
+    line-height: 20px;
+    color: #837ba5;
+}
+
+.drop-down{
+    border: 3px solid rgba(12, 12, 12, 0.5);
+    border-radius:10px;
+    padding: 14px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #837ba5;
+
+}
+
+.submit-button {
+    margin-left: 10px;
+    background: #b6387b;
+    color: black;
+    border: none;
+    width: 150px;
+    font-size: 16px;
+    border-radius: 50px;
+    padding: 14px 24px;
+}
+
+.img-brain{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    
+}
+
+
+.end-result {
+    font-size: 16px;
+    background-color: #fff;
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 40px;
+    line-height: 1.5;
+    box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
+}
+
+footer {
+    text-align: center;
+    font-size: 13px;
+    margin-top: 30px;
+}
