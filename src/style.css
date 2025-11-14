@@ -1,6 +1,8 @@
 body {
     background-color: #8198af;
     font-family: Helvetica, Arial, sans-serif;
+    margin: auto;
+    max-width: 800px;
 }
 
 a {
